@@ -17,5 +17,8 @@ public class Exception03 {
 		} catch (Exception e) { //Exception : 모든 예외일때, 항상 마지막
 			System.out.println("기타 에러");
 		}
+		
+		
+		
 	}
 }
